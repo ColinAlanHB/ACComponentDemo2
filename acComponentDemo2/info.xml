@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<acplugins>
+    <plugin
+        acName="acComponentDemo2" version="1.0.0" build="0">
+        <info>0:版本更新记录</info>
+    </plugin>
+</acplugins>
