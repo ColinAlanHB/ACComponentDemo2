@@ -1,0 +1,6 @@
+framework module ACComponentDemo2 {
+  umbrella header "ACComponentDemo2.h"
+
+  export *
+  module * { export * }
+}
