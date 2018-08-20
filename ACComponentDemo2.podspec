@@ -103,7 +103,7 @@ Pod::Spec.new do |s|
   #
 
   s.resource  = "acComponentDemo2/ACComponentDemoBundle.bundle"
-  s.ios.vendored_frameworks = "acComponentDemo2/ACComponentDemo2.framework"
+  s.ios.vendored_frameworks = "acComponentDemo2/ACComponentDemo2.framework", "acComponentDemo2/ACComponentSwift.framework", "acComponentDemo2/ACComponentListnerDemo.framework","acComponentDemo2/ACComponentMyView.framework"
   s.dependency 'ACEngineLib'
 
   # s.preserve_paths = "FilesToSave", "MoreFilesToSave"
