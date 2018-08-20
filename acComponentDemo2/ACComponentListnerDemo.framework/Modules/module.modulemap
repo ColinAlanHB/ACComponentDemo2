@@ -1,0 +1,6 @@
+framework module ACComponentListnerDemo {
+  umbrella header "ACComponentListnerDemo.h"
+
+  export *
+  module * { export * }
+}

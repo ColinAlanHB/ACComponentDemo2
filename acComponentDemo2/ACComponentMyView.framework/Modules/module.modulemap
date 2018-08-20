@@ -1,0 +1,6 @@
+framework module ACComponentMyView {
+  umbrella header "ACComponentMyView.h"
+
+  export *
+  module * { export * }
+}
